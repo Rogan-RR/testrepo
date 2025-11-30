@@ -1,2 +1,2 @@
 # testrepo
-Testing of Github report
+Testing repository
